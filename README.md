@@ -1,6 +1,6 @@
 # 💫About Me :
-🪛 I'm about to start working on a  small JavaScript game engine
-📖 I'm currently learning JavaScript, HTML, CSS
+🪛 I'm about to start working on a  small JavaScript game engine \n
+📖 I'm currently learning JavaScript, HTML, CSS \n
 🤔 I'm thinking about learning C# or C++
 
 # 💻Tech Stack
