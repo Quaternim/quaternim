@@ -1,5 +1,5 @@
 # 💫About Me :
-🪛 I'm about to start working on a  small JavaScript game engine <br>
+🪛 I'm working on a discord.js bot atm <br>
 📖 I'm currently learning JavaScript, HTML, CSS <br>
 🤔 I'm thinking about learning C# or C++
 
